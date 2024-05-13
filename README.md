@@ -9,7 +9,7 @@ To get started with this interpreter, follow these steps:
 - Clone or download the repository.
 
 ```bash
-git clone https://github.com/AdaiasMagdiel/luabf.git
+git clone https://github.com/AdaiasMagdiel/LuaBF.git
 ```
 
 - Ensure you have Lua installed on your system.
