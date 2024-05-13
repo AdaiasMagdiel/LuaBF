@@ -75,6 +75,16 @@ luabf:run()
 
 This runs the script and outputs the result to the console.
 
+## Testing
+
+The project includes a testing suite located in `tests/main.lua`. This script runs the interpreter on all files in the `examples` folder and compares the output with expected results. To run the tests, execute the following command:
+
+```bash
+lua tests/main.lua
+```
+
+This will automatically run all tests and report any discrepancies between the actual and expected outputs.
+
 ## Contributing
 
 Contributions are welcome Please feel free to submit pull requests or open issues for any bugs or feature requests.
